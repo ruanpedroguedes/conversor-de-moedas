@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 84, 84);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+  }
+  
+section {
+    max-width: 640px;
+    height: 400px;
+    margin: 50px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+section h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+.label{
+    margin: 20px;
+}
+
+.btn{
+    margin-left: 20px;
+    padding: 10px;
+    border-radius: 4px;
+    background-color: rgba(128, 255, 0, 0.691);
+}
+
+.btn2{
+    margin-left: 20px;
+    padding: 10px;
+    border-radius: 4px;
+    background-color: rgba(255, 0, 0, 0.691);
+}
+
+#posiBotoes{
+    text-align: center;
+    margin-top: 150px;
+}
+
+#posiInput{
+    margin-top: 100px;
+}
+
+.label{
+    font-size: 25px;
+}
+
+.display01{
+    font-size: 14px;
+    border-radius: 4px;
+}
+
+.display02{
+    font-size: 14px;
+    border-radius: 4px;
+}
